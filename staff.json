@@ -1,17 +1,17 @@
 [
     {
+        "key": "",
         "name": "20CF8CC5",
-        "xp": 0,
-        "key": ""
+        "xp": 10
     },
     {
+        "key": "ABC123XYZ",
         "name": "user2",
-        "xp": 100,
-        "key": "ABC123XYZ"
+        "xp": 100
     },
     {
+        "key": "",
         "name": "user3",
-        "xp": 20,
-        "key": ""
+        "xp": 20
     }
 ]
